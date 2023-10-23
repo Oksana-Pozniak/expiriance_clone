@@ -1,2 +1,4 @@
 Line first
 Line second
+commit 2
+commit 2
